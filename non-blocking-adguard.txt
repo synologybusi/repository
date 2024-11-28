@@ -1,0 +1,10 @@
+!
+! Title: AdGuard DNS nonblockink filter
+! Description: List compatible with DNS-level and non blocking
+! Version: 1.0
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! Last modified: 2024-11-28
+!
+! Compiled by @synologybusi
+!
+||unifi.ui.com^
